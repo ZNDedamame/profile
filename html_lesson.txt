@@ -1,0 +1,42 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Author" content="">
+  <meta name="Company" content="">
+  <meta name="Copyright" content="">
+  <meta name="Subject" content="">
+  <meta name="Description" content="">
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="1265.21">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Hiragino Kaku Gothic Pro'; color: #000000; min-height: 18.0px}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Hiragino Kaku Gothic Pro'; color: #000000}
+  </style>
+</head>
+<body>
+<p class="p1"><br></p>
+<p class="p1"><br></p>
+<p class="p2">ポートフォリオ</p>
+<p class="p2">自己紹介サイトをつくろう♪</p>
+<p class="p1"><br></p>
+<p class="p1"><br></p>
+<p class="p2">プロフィール</p>
+<p class="p1"><br></p>
+<p class="p2">・名前　後藤 麻佑</p>
+<p class="p2">・大学名　和光大学</p>
+<p class="p2">・学部学科　　表現学部芸術学科</p>
+<p class="p2">・趣味　旅　食べ放題</p>
+<p class="p2">・血液型　O型</p>
+<p class="p1"><br></p>
+<p class="p1"><br></p>
+<p class="p2">コメント</p>
+<p class="p2">東京都生まれ。現在は和光大学で授業中〜。</p>
+<p class="p2">最近はバルーンアートと海外料理にはまっていて、とにかくハマると目がないです！</p>
+<p class="p2">どうぞよろしく〜！</p>
+<p class="p1"><br></p>
+<p class="p2">copyright., edamame.com<span class="Apple-converted-space"> </span></p>
+</body>
+</html>
